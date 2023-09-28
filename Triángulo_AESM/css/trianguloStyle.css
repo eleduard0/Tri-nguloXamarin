@@ -1,0 +1,16 @@
+﻿^ContentPage{
+    background-color:antiquewhite;
+    padding: 20,30;
+}
+frame{
+    background-color:antiquewhite;
+    padding: 24;
+}
+
+label{
+    color: cadetblue;
+
+}
+button.boton{
+    background-color: cadetblue;
+}
